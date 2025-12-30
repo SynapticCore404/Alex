@@ -1,0 +1,62 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+.direnv/
+.envrc
+
+# IDE/editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & caches
+*.log
+log/
+logs/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.tox/
+.nox/
+.pyre/
+.pytype/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Env & secrets
+.env
+.env.*
+
+# Data/runtime
+*.sqlite
+*.sqlite3
+*.db
+data/
+storage/
+tmp/
+.temp/
+*.pid
+*.bak
+*.tmp
