@@ -23,8 +23,8 @@ pip install -r requirements.txt
 
 `.env.example` ni nusxa oling va `.env` ga to‘ldiring:
 ```
-TELEGRAM_BOT_TOKEN=...
-GEMINI_API_KEY=...
+TELEGRAM_BOT_TOKEN=7823028516:AAEnqYmr8NtBu3_U94pzgZ1qut3NbsnPLmg
+GEMINI_API_KEY=AIzaSyC3Ad0zzaky76eViumthW4xZTmofDu0utc
 # faqat ma'lum kanal uchun ishlatish (ixtiyoriy)
 TARGET_CHANNEL_ID=-1001234567890
 ```
